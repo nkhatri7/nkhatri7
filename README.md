@@ -12,9 +12,9 @@ I'm currently working on:
 - [Frontend Mentor](https://www.frontendmentor.io/home) challenges – [see my work](https://github.com/nkhatri7/Frontend-Mentor-Challenges)
 
 ### Languages I'm Familiar With:
-- ☕️ Java
-- 🐍 Python
-- 💻 HTML/CSS/Javascript
+- ☕️ &nbsp; Java
+- 🐍 &nbsp; Python
+- 💻 &nbsp; HTML/CSS/Javascript
 
 ### How to Reach Me
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/neilkhatri/) or send me an [email](mailto:neil.khatri@gmail.com) :)
