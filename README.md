@@ -8,7 +8,7 @@ Hi! I'm Neil and I'm a second year commerce student at UNSW that's extremely pas
 ### Current Status
 I'm currently working on:
 - Learning React.js
-- Learning backend development
+- Learning backend web development
 - [Frontend Mentor](https://www.frontendmentor.io/home) challenges – [see my work](https://github.com/nkhatri7/Frontend-Mentor-Challenges)
 
 ### Languages I'm Familiar With:
