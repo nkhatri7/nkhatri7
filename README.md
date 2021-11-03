@@ -3,7 +3,7 @@ Hi! I'm Neil and I'm a second year commerce student at UNSW that's extremely pas
 ### Interests
 - Web Development
 - Software Development
-- UI/UX Design
+- UI/UX
 
 ### Current Status
 I'm currently working on:
