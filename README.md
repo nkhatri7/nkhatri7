@@ -15,6 +15,7 @@ I'm currently working on:
 - ☕️ &nbsp; Java
 - 🐍 &nbsp; Python
 - 💻 &nbsp; HTML/CSS/Javascript
+- 🔏 &nbsp; SQL
 
 ### How to Reach Me
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/neilkhatri/) or send me an [email](mailto:neil.khatri@gmail.com) :)
