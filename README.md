@@ -1,3 +1,5 @@
+### About Me
+
 Hi! I'm Neil and I'm a second year commerce student at UNSW that's extremely passionate about programming. I'm busy doing my uni work most of the time but I always try to code when I have some free time.
 
 ### Interests
