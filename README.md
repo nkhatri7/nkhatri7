@@ -13,6 +13,7 @@ I'm currently working on:
 - Learning how to build full stack apps
 
 ### Languages/Libraries/Frameworks I'm Familiar With:
+- SQL
 - Java
 - Python
 - Flask
@@ -20,7 +21,7 @@ I'm currently working on:
 - React.js
 - Node.js
 - Express.js
-- SQL
+- MongoDB (NoSQL)
 
 ### How to Reach Me
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/neilkhatri/) or send me an [email](mailto:neil.khatri@gmail.com) :)
