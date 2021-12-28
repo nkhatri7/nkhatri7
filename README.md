@@ -15,14 +15,11 @@ I'm currently working on:
 ### What I'm Familiar With:
 - SQL
 - Java
-- Python
-- Flask
+- Python (& Flask)
 - HTML/CSS
 - Javascript
-- React.js
-- Node.js
-- Express.js
-- MongoDB (NoSQL)
+- MERN Stack
+- Swift & SwiftUI
 
 ### How to Reach Me
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/neilkhatri/) or send me an [email](mailto:neil.khatri@gmail.com) :)
