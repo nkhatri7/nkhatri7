@@ -1,4 +1,4 @@
-### About Me
+## About Me
 
 Hi! I'm Neil and I'm a second year commerce student at UNSW that's extremely passionate about programming.
 
@@ -14,14 +14,22 @@ I'm currently working on:
 - Building fullstack web apps and trying out different tech stacks
 - Managing and working on my app (Rise n' SIUUU) – [link to app on the App Store](https://apps.apple.com/app/rise-n-siuuu/id1604010390)
 
+## Tools and Technologies
+
 ### What I'm Familiar With:
 - SQL
 - Java
 - Python (& Flask)
 - HTML/CSS
-- Javascript
+- JavaScript
 - MERN Stack
 - Swift & SwiftUI
 
-### How to Reach Me
+### What I'm Most Experienced With:
+- JavaScript
+- React
+- Java
+- HTML/CSS
+
+## Contact
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/neilkhatri/) or send me an [email](mailto:neil.khatri@gmail.com) :)
