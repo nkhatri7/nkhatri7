@@ -5,12 +5,14 @@ Hi! I'm Neil and I'm a second year commerce student at UNSW that's extremely pas
 ### Interests
 - Web Development
 - Software Development
+- Mobile Application Development
 - UI/UX
 
 ### Current Status
 I'm currently working on:
 - [Frontend Mentor](https://www.frontendmentor.io/home) challenges – [see my work](https://github.com/nkhatri7/Frontend-Mentor-Challenges)
-- Learning how to build full stack apps
+- Building fullstack web apps and trying out different tech stacks
+- Managing and working on my app (Rise n' SIUUU) – [link to app on the App Store](https://apps.apple.com/app/rise-n-siuuu/id1604010390)
 
 ### What I'm Familiar With:
 - SQL
