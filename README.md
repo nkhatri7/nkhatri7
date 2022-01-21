@@ -1,6 +1,6 @@
 ## About Me
 
-Hi! I'm Neil and I'm a second year commerce student at UNSW that's extremely passionate about programming.
+Hi! I'm Neil and I'm a final year commerce student at UNSW that's extremely passionate about programming.
 
 ### Interests
 - Web Development
