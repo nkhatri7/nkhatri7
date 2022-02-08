@@ -21,15 +21,16 @@ I'm currently working on:
 - Java
 - Python (& Flask)
 - HTML/CSS
-- JavaScript
+- JavaScript (& React + React Native)
 - MERN Stack
-- Swift & SwiftUI
+- Swift & SwiftUI (iOS Development)
+- Kotlin (Android Development)
 
 ### What I'm Most Experienced With:
+- HTML/CSS (SASS/Bootstrap)
 - JavaScript
 - React
 - Java
-- HTML/CSS
 
 ## Contact
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/neilkhatri/) or send me an [email](mailto:neil.khatri@gmail.com) :)
