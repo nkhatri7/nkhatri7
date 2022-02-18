@@ -12,7 +12,7 @@ Hi! I'm Neil and I'm a final year commerce student at UNSW that's extremely pass
 I'm currently working on:
 - [Frontend Mentor](https://www.frontendmentor.io/home) challenges – [see my work](https://github.com/nkhatri7/Frontend-Mentor-Challenges)
 - Building fullstack web apps and trying out different tech stacks
-- Managing and working on my app (Rise n' SIUUU) – [link to app on the App Store](https://apps.apple.com/app/rise-n-siuuu/id1604010390)
+- Managing and working on my app (Rise n' SIUUU) – [App Store](https://apps.apple.com/app/rise-n-siuuu/id1604010390), [Google Play Store](https://play.google.com/store/apps/details?id=com.neilkhatri.risensiuuu)
 
 ## Tools and Technologies
 
