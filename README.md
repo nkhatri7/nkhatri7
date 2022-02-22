@@ -12,7 +12,7 @@ Hi! I'm Neil and I'm a final year commerce student at UNSW that's extremely pass
 I'm currently:
 - Working on [Frontend Mentor](https://www.frontendmentor.io/home) challenges – [see my work](https://github.com/nkhatri7/Frontend-Mentor-Challenges)
 - Building fullstack web apps and trying out different tech stacks
-- Managing and working on my app (Rise n' SIUUU) – [App Store](https://apps.apple.com/app/rise-n-siuuu/id1604010390), [Google Play Store](https://play.google.com/store/apps/details?id=com.neilkhatri.risensiuuu)
+- Managing and working on my app (Rise n' SIUUU) – [App Store](https://apps.apple.com/app/rise-n-siuuu/id1604010390), [Google Play](https://play.google.com/store/apps/details?id=com.neilkhatri.risensiuuu)
 - Designing, creating, updating, and maintaining the websites for Jack's of Fiji Restaurants
 
 ### What I'm Looking For
