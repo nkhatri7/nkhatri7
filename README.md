@@ -15,7 +15,7 @@ I'm currently:
 - Designing, creating, updating, and maintaining the websites for Jack's of Fiji Restaurants
 
 ### What I'm Looking For
-I'm looking for a job as a frontend or full stack developer in Australia.
+I'm graduating next year so I'm looking for a fulltime graduate/junior role as a frontend developer.
 
 ## Tools and Technologies
 
