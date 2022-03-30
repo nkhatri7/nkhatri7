@@ -20,20 +20,20 @@ I'm graduating next year so I'm looking for a fulltime graduate/junior role as a
 ## Tools and Technologies
 
 ### What I'm Familiar With:
+- JavaScript (& React + React Native)
+- Java (& Spring)
 - SQL
-- Java
 - Python (& Flask)
 - HTML/CSS
-- JavaScript (& React + React Native)
 - MERN Stack
 - Swift & SwiftUI (iOS Development)
 - Kotlin (Android Development)
 
 ### What I'm Most Experienced With:
-- HTML/CSS (SASS/Bootstrap)
 - JavaScript
 - React
 - Java
+- HTML/CSS (SASS/Bootstrap)
 
 ## Contact
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/neilkhatri/) or send me an [email](mailto:neil.khatri@gmail.com) :)
