@@ -24,7 +24,7 @@ I'm graduating next year so I'm looking for a fulltime graduate/junior role as a
 - Java (& Spring)
 - SQL
 - Python (& Flask)
-- HTML/CSS
+- HTML & CSS (Sass)
 - MERN Stack
 - Swift & SwiftUI (iOS Development)
 - Kotlin (Android Development)
@@ -33,7 +33,7 @@ I'm graduating next year so I'm looking for a fulltime graduate/junior role as a
 - JavaScript
 - React
 - Java
-- HTML/CSS (SASS/Bootstrap)
+- HTML & CSS (Sass)
 
 ## Contact
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/neilkhatri/) or send me an [email](mailto:neil.khatri@gmail.com) :)
