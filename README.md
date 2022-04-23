@@ -21,7 +21,8 @@ I'm graduating next year so I'm looking for a fulltime graduate/junior role as a
 ## Tools and Technologies
 
 ### What I'm Familiar With:
-- JavaScript (& React + React Native)
+- JavaScript
+- React
 - Java (& Spring)
 - SQL
 - Python (& Flask)
