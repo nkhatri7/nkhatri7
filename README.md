@@ -10,7 +10,7 @@ Hi! I'm Neil and I'm a final year commerce student at UNSW that's extremely pass
 
 ### Current Status
 I'm currently:
-- Creating good ditigal experiences for users with [Cheil](https://cheil.com/au/)
+- Creating good ditigal experiences for users with [Cheil Australia](https://cheil.com/au/)
 - Managing and working on my app (Rise n' SIUUU) – [App Store](https://apps.apple.com/app/rise-n-siuuu/id1604010390), [Google Play](https://play.google.com/store/apps/details?id=com.neilkhatri.risensiuuu)
 
 ## Tools and Technologies
