@@ -17,6 +17,7 @@ I'm currently:
 
 ### What I'm Familiar With:
 - JavaScript
+- TypeScript
 - React
 - Java (& Spring)
 - SQL
@@ -28,6 +29,7 @@ I'm currently:
 
 ### What I'm Most Experienced With:
 - JavaScript
+- TypeScript
 - React
 - Java
 - HTML & CSS (Sass)
