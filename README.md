@@ -19,7 +19,7 @@ I'm currently:
 - JavaScript
 - TypeScript
 - React
-- Java (& Spring)
+- Java (& Spring Boot)
 - SQL
 - Python (& Flask)
 - HTML & CSS (Sass)
