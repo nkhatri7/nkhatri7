@@ -2,8 +2,6 @@
 
 I'm a final year commerce student at UNSW that's extremely passionate about programming, UI/UX design, and creating good digital experiences for users.
 
-<img alt="Illustration of someone coding" src="./assets/undraw_programming.svg" align="right" height="300px" />
-
 ### What I'm doing now
 - 🏢 Digital Experience Intern at [Cheil Australia](https://cheil.com/au/)
 - 💻 Enhancing my front-end skills with side projects
