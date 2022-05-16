@@ -3,7 +3,7 @@
 I'm a final year commerce student that's extremely passionate about programming, UI/UX design, and creating good digital experiences for users.
 
 ### What I'm doing now
-- 🏢 Completing an internship at [Cheil Australia](https://cheil.com/au/)
+- 🏢 Digital Experience Intern at [Cheil Australia](https://cheil.com/au/)
 - 💻 Enhancing my front-end skills with side projects
 - 📚 Finishing my commerce degree
 - 📱 Managing and working on my app (Rise n' SIUUU) – [App Store](https://apps.apple.com/app/rise-n-siuuu/id1604010390), [Google Play](https://play.google.com/store/apps/details?id=com.neilkhatri.risensiuuu)
