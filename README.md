@@ -6,11 +6,6 @@ I'm a final year commerce student at UNSW that's extremely passionate about prog
 - 🏢 Digital Experience Intern at [Cheil Australia](https://cheil.com/au/)
 - 💻 Enhancing my front-end skills with side projects
 - 📚 Finishing my commerce degree
-- 📱 Managing and working on my app (Rise n' SIUUU) 
-
-
-     <a href="https://apps.apple.com/app/rise-n-siuuu/id1604010390"><img alt="App Store" src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-<a href="https://play.google.com/store/apps/details?id=com.neilkhatri.risensiuuu"><img alt="Google Play" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
 
 <!-- ### My languages and tools -->
 <!-- <code><img height="40" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
