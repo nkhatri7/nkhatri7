@@ -3,7 +3,7 @@
 I'm a final year commerce student at UNSW that's extremely passionate about programming, UI/UX design, and creating good digital experiences for users.
 
 ### What I'm doing now
-- 🏢 Junior Frontend Developer @ [Cheil Australia](https://cheil.com/au/)
+- 🏢 Junior Frontend Developer @ Cheil Australia
 - 💻 Enhancing my frontend skills with side projects
 - 📚 Finishing my commerce degree
 
