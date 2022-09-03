@@ -1,4 +1,4 @@
-# Hi 👋, I'm Neil, a frontend developer
+# Hi 👋, I'm Neil, a software engineer
 
 I'm a final year commerce student at UNSW that's extremely passionate about programming, UI/UX design, and creating good digital experiences for users.
 
