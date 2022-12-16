@@ -1,6 +1,6 @@
-# Hi 👋, I'm Neil, a software engineer
+# Hi 👋, I'm Neil
 
-I'm a final year commerce student at UNSW that's extremely passionate about programming, UI/UX design, and creating good digital experiences for users.
+I'm a software engineer that's extremely passionate about programming, UI/UX design, and creating good digital experiences for users.
 
 ### What I'm doing now
 - 🏢 Associate Software Engineer @ DigIO
