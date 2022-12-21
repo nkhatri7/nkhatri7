@@ -4,6 +4,7 @@ I'm a software engineer that's extremely passionate about programming, UI/UX des
 
 ### What I'm doing now
 - 🏢 Associate Software Engineer @ Digio
+- 📚 Learning backend development
 - 💻 Building side projects (whenever I have the time)
 
 <!-- ### My languages and tools -->
