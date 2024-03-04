@@ -3,7 +3,7 @@
 I'm a software engineer who's extremely passionate about programming, UI/UX design, and creating good digital experiences for users.
 
 ### What I'm doing now
-- 🏢 Associate Software Engineer @ [Mantel Group](https://mantelgroup.com.au/)
+- 🏢 Software Engineer @ [Mantel Group](https://mantelgroup.com.au/)
 - 📚 Enhancing my full-stack software engineering knowledge and skills
 - 💻 Building side projects (whenever I have the time)
 
